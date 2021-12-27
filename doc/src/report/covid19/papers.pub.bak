@@ -1,0 +1,182 @@
+* articles
+** Contributions to the Mathematical Theory of Epidemics. II.—The Problem of Endemicity
+   key:       kermack1932_endemicity
+   author:    William Ogilvy Kermack, Anderson G. McKendrick
+   year:      1932
+   journal:   Proceedings of the Royal Society of London. Series A, containing papers of a mathematical and physical character
+   publisher: The Royal Society London
+   volume:    138
+   number:    834
+   pages:     55--83
+   status:    published
+   entrytype: article
+** Escaping the Zombie Threat by Mathematics
+   key:       langtangen2013escaping
+   author:    Hans Petter Langtangen, Kent-Andre Mardal, Pål Røtnes
+   year:      2013
+   journal:   Zombies in the Academy-Living Death in Higher Education
+   status:    published
+   entrytype: article
+** On the Definition and the Computation of the Basic Reproduction Ratio R 0 in Models for Infectious Diseases in Heterogeneous Populations
+   key:       diekmann1990definition
+   author:    Odo Diekmann, Johan Andre Peter Heesterbeek, Johan AJ Metz
+   year:      1990
+   journal:   Journal of mathematical biology
+   publisher: Springer
+   volume:    28
+   number:    4
+   pages:     365--382
+   status:    published
+   entrytype: article
+** Generality of the Final Size Formula for an Epidemic of a Newly Invading Infectious Disease
+   key:       ma2006generality
+   author:    Junling Ma, David JD Earn
+   year:      2006
+   journal:   Bulletin of mathematical biology
+   publisher: Springer
+   volume:    68
+   number:    3
+   pages:     679--702
+   status:    published
+   entrytype: article
+** How Should Pathogen Transmission Be Modelled?
+   key:       mccallum2001should
+   author:    Hamish McCallum, Nigel Barlow, Jim Hone
+   year:      2001
+   journal:   Trends in ecology \& evolution
+   publisher: Elsevier
+   volume:    16
+   number:    6
+   pages:     295--300
+   status:    published
+   entrytype: article
+** A Systematic Review of Early Modelling Studies of Ebola Virus Disease in West Africa
+   key:       wong2017systematic
+   author:    ZSY Wong, CM Bui, AA Chughtai, CR Macintyre
+   year:      2017
+   journal:   Epidemiology \& Infection
+   publisher: Cambridge University Press
+   volume:    145
+   number:    6
+   pages:     1069--1094
+   status:    published
+   entrytype: article
+** Reproduction Numbers of Infectious Disease Models
+   key:       van2017reproduction
+   author:    Pauline van den Driessche
+   year:      2017
+   journal:   Infectious Disease Modelling
+   publisher: Elsevier
+   volume:    2
+   number:    3
+   pages:     288--303
+   status:    published
+   entrytype: article
+** A Clarification of Transmission Terms in Host-Microparasite Models: Numbers, Densities and Areas
+   key:       begon2002clarification
+   author:    Michael Begon, Malcolm Bennett, Roger G. Bowers, Nigel P. French, SM Hazel, Joseph Turner
+   year:      2002
+   journal:   Epidemiology \& Infection
+   publisher: Cambridge University Press
+   volume:    129
+   number:    1
+   pages:     147--153
+   status:    published
+   entrytype: article
+** A Contribution to the Mathematical Theory of Epidemics—I
+   key:       kermack1927contribution
+   author:    William Ogilvy Kermack, Anderson G. McKendrick
+   year:      1927
+   journal:   Proceedings of the {R}oyal {S}ociety of {L}ondon. Series A, Containing papers of a mathematical and physical character
+   publisher: The Royal Society London
+   volume:    115
+   number:    772
+   pages:     700--721
+   status:    published
+   entrytype: article
+** On the {D}efinition and the {C}omputation of the {B}asic {R}eproduction {R}atio {R0} in {M}odels for {I}nfectious {D}iseases in {H}eterogeneous {P}opulations
+   key:       diekmann1990definition
+   author:    Odo Diekmann, Johan Andre Peter Heesterbeek, Johan AJ Metz
+   year:      1990
+   journal:   Journal of mathematical biology
+   publisher: Springer
+   volume:    28
+   number:    4
+   pages:     365--382
+   status:    published
+   entrytype: article
+** The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application
+   key:       lauer2020incubation
+   author:    Stephen A. Lauer, Kyra H. Grantz, Qifang Bi, Forrest K. Jones, Qulu Zheng, Hannah R. Meredith, Andrew S. Azman, Nicholas G. Reich, Justin Lessler
+   year:      2020
+   journal:   Annals of internal medicine
+   publisher: American College of Physicians
+   volume:    172
+   number:    9
+   pages:     577--582
+   status:    published
+   entrytype: article
+** Quantifying SARS-CoV-2 Transmission Suggests Epidemic Control With Digital Contact Tracing
+   key:       ferretti2020quantifying
+   author:    Luca Ferretti, Chris Wymant, Michelle Kendall, Lele Zhao, Anel Nurtay, Lucie Abeler-D{\"o}rner, Michael Parker, David Bonsall, Christophe Fraser
+   year:      2020
+   journal:   Science
+   publisher: American Association for the Advancement of Science
+   volume:    368
+   number:    6491
+   status:    published
+   entrytype: article
+** Contributions to the Mathematical Theory of Epidemics. III.—Further Studies of the Problem of Endemicity
+   key:       kermack1933_further
+   author:    William Ogilvy Kermack, Anderson G. McKendrick
+   year:      1933
+   journal:   Proceedings of the Royal Society of London. Series A, containing papers of a mathematical and physical character
+   publisher: The Royal Society London
+   volume:    141
+   number:    843
+   pages:     94--122
+   status:    published
+   entrytype: article
+* books
+** The Serpent and the Rainbow
+   key:       davis2010serpent
+   author:    Wade Davis
+   year:      2010
+   publisher: Simon and Schuster
+   status:    published
+   entrytype: book
+** Computational Engineering and Modeling
+   key:       hiorth2019
+   author:    Aksel Hiorth
+   year:      2019
+   publisher: https://github.com/ahiorth/CompEngineering
+   status:    published
+   entrytype: book
+** The Zombie Survival Guide: Complete Protection From the Living Dead
+   key:       brooks2003zombie
+   author:    Max Brooks
+   year:      2003
+   publisher: Broadway {B}ooks
+   status:    published
+   entrytype: book
+** The Walking Dead Vol. 1: Days Gone Bye
+   key:       kirkman2004walking
+   author:    Robert Kirkman
+   year:      2004
+   publisher: {I}mage {C}omics
+   volume:    1
+   status:    published
+   entrytype: book
+* misc
+** {S}tore {N}orske {L}eksikon
+   key:          snl
+   status:       published
+   entrytype:    misc
+   howpublished: \url{https://snl.no}
+   note:         Accessed: 2020-10-23
+** {C}oronavirus Modelling at the {NIPH}
+   key:          NIPH
+   status:       published
+   entrytype:    misc
+   howpublished: \url{https://www.fhi.no/en/id/infectious-diseases/coronavirus/coronavirus-modelling-at-the-niph-fhi/}
+   note:         Accessed: 2019-10-26

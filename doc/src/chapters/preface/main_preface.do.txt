@@ -1,0 +1,16 @@
+TITLE:  Chapter Preface
+AUTHOR: Aksel Hiorth Institute for Energy Resources,
+University of Stavanger
+DATE: today
+
+TOC: on
+
+# #include "preface.do.txt"
+
+======= Bibliography =======
+
+## Publish (https://bitbucket.org/logg/publish is used to
+## handle references. The line below specifies the name of
+## the Publish database file (see the doconce manual for details).
+
+BIBFILE: ../papers.pub

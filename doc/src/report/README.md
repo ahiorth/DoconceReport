@@ -1,0 +1,4 @@
+# Structure of this folder
+This folder contains a `make.sh` file, this file is not meant to be run separately. It is used by the `make.sh` in the `covid19` and `covid19_solution` folder. This way it is very easy to add new folders with your own projects or reports, the only thing you need to do is to copy the `make.sh` in e.g. `covid19` folder and open the file and change the name from `covid19` to the name of your `do.txt` file. Note that figures are stored in folders named `fig-<name_of_main_folder>` and source code is stored in `src-<name_of_main_folder>`. In this case it is more like a best practice and not necessarily.
+
+If you open the `make.sh` file in this folder, it basically consists of a series of commands executed by the terminal. Once you are able to compile your report, you can make changes to this `make.sh` to customize the output.

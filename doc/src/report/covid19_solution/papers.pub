@@ -1,0 +1,283 @@
+* articles
+** Contributions to the Mathematical Theory of Epidemics. II.—The Problem of Endemicity
+   key:       kermack1932_endemicity
+   author:    William Ogilvy Kermack, Anderson G. McKendrick
+   year:      1932
+   journal:   Proceedings of the Royal Society of London. Series A, containing papers of a mathematical and physical character
+   publisher: The Royal Society London
+   volume:    138
+   number:    834
+   pages:     55--83
+   status:    published
+   entrytype: article
+** Contributions to the Mathematical Theory of Epidemics. III.—Further Studies of the Problem of Endemicity
+   key:       kermack1933_further
+   author:    William Ogilvy Kermack, Anderson G. McKendrick
+   year:      1933
+   journal:   Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character
+   publisher: The Royal Society London
+   volume:    141
+   number:    843
+   pages:     94--122
+   status:    published
+   entrytype: article
+** Escaping the Zombie Threat by Mathematics
+   key:       langtangen2013escaping
+   author:    Hans Petter Langtangen, Kent-Andre Mardal, Pål Røtnes
+   year:      2013
+   journal:   Zombies in the Academy-Living Death in Higher Education
+   status:    published
+   entrytype: article
+** On the Definition and the Computation of the Basic Reproduction Ratio R 0 in Models for Infectious Diseases in Heterogeneous Populations
+   key:       diekmann1990definition
+   author:    Odo Diekmann, Johan Andre Peter Heesterbeek, Johan AJ Metz
+   year:      1990
+   journal:   Journal of mathematical biology
+   publisher: Springer
+   volume:    28
+   number:    4
+   pages:     365--382
+   status:    published
+   entrytype: article
+** Generality of the Final Size Formula for an Epidemic of a Newly Invading Infectious Disease
+   key:       ma2006generality
+   author:    Junling Ma, David JD Earn
+   year:      2006
+   journal:   Bulletin of mathematical biology
+   publisher: Springer
+   volume:    68
+   number:    3
+   pages:     679--702
+   status:    published
+   entrytype: article
+** How Should Pathogen Transmission Be Modelled?
+   key:       mccallum2001should
+   author:    Hamish McCallum, Nigel Barlow, Jim Hone
+   year:      2001
+   journal:   Trends in ecology \& evolution
+   publisher: Elsevier
+   volume:    16
+   number:    6
+   pages:     295--300
+   status:    published
+   entrytype: article
+** A Systematic Review of Early Modelling Studies of Ebola Virus Disease in West Africa
+   key:       wong2017systematic
+   author:    ZSY Wong, CM Bui, AA Chughtai, CR Macintyre
+   year:      2017
+   journal:   Epidemiology \& Infection
+   publisher: Cambridge University Press
+   volume:    145
+   number:    6
+   pages:     1069--1094
+   status:    published
+   entrytype: article
+** Reproduction Numbers of Infectious Disease Models
+   key:       van2017reproduction
+   author:    Pauline van den Driessche
+   year:      2017
+   journal:   Infectious Disease Modelling
+   publisher: Elsevier
+   volume:    2
+   number:    3
+   pages:     288--303
+   status:    published
+   entrytype: article
+** A Clarification of Transmission Terms in Host-Microparasite Models: Numbers, Densities and Areas
+   key:       begon2002clarification
+   author:    Michael Begon, Malcolm Bennett, Roger G. Bowers, Nigel P. French, SM Hazel, Joseph Turner
+   year:      2002
+   journal:   Epidemiology \& Infection
+   publisher: Cambridge University Press
+   volume:    129
+   number:    1
+   pages:     147--153
+   status:    published
+   entrytype: article
+** A Contribution to the Mathematical Theory of Epidemics—I
+   key:       kermack1927contribution
+   author:    William Ogilvy Kermack, Anderson G. McKendrick
+   year:      1927
+   journal:   Proceedings of the {R}oyal {S}ociety of {L}ondon. Series A, Containing papers of a mathematical and physical character
+   publisher: The Royal Society London
+   volume:    115
+   number:    772
+   pages:     700--721
+   status:    published
+   entrytype: article
+** On the {D}efinition and the {C}omputation of the {B}asic {R}eproduction {R}atio {R0} in {M}odels for {I}nfectious {D}iseases in {H}eterogeneous {P}opulations
+   key:       diekmann1990definition
+   author:    Odo Diekmann, Johan Andre Peter Heesterbeek, Johan AJ Metz
+   year:      1990
+   journal:   Journal of mathematical biology
+   publisher: Springer
+   volume:    28
+   number:    4
+   pages:     365--382
+   status:    published
+   entrytype: article
+** The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application
+   key:       lauer2020incubation
+   author:    Stephen A. Lauer, Kyra H. Grantz, Qifang Bi, Forrest K. Jones, Qulu Zheng, Hannah R. Meredith, Andrew S. Azman, Nicholas G. Reich, Justin Lessler
+   year:      2020
+   journal:   Annals of internal medicine
+   publisher: American College of Physicians
+   volume:    172
+   number:    9
+   pages:     577--582
+   status:    published
+   entrytype: article
+** Quantifying SARS-CoV-2 Transmission Suggests Epidemic Control With Digital Contact Tracing
+   key:       ferretti2020quantifying
+   author:    Luca Ferretti, Chris Wymant, Michelle Kendall, Lele Zhao, Anel Nurtay, Lucie Abeler-D{\"o}rner, Michael Parker, David Bonsall, Christophe Fraser
+   year:      2020
+   journal:   Science
+   publisher: American Association for the Advancement of Science
+   volume:    368
+   number:    6491
+   status:    published
+   entrytype: article
+** Science and Statistics
+   key:       box1976science
+   author:    George EP Box
+   year:      1976
+   journal:   Journal of the American Statistical Association
+   publisher: Taylor \& Francis
+   volume:    71
+   number:    356
+   pages:     791--799
+   status:    published
+   entrytype: article
+** Simulation of Deterministic Compartmental Models for Infectious Diseases Dynamics
+   key:       batista2021simulation
+   author:    Antonio M. Batista, Silvio LT Souza, Kelly C. Iarosz, Alexandre CL Almeida, Jos{\'e} D. Szezech, Enrique C. Gabrick, Michele Mugnaine, Gefferson L. dos Santos, Iber{\^e} L. Caldas
+   year:      2021
+   journal:   arXiv preprint arXiv:2106.02085
+   status:    published
+   entrytype: article
+** A Pneumonia Outbreak Associated With a New Coronavirus of Probable Bat Origin
+   key:       zhou2020pneumonia
+   author:    Peng Zhou, Xing-Lou Yang, Xian-Guang Wang, Ben Hu, Lei Zhang, Wei Zhang, Hao-Rui Si, Yan Zhu, Bei Li, Chao-Lin Huang, others
+   year:      2020
+   journal:   {N}ature
+   publisher: {N}ature {P}ublishing {G}roup
+   volume:    579
+   number:    7798
+   pages:     270--273
+   status:    published
+   entrytype: article
+** What Scientists Know About New, Fast-Spreading Coronavirus Variants.
+   key:       adam2021scientists
+   author:    David Adam
+   year:      2021
+   journal:   Nature
+   status:    published
+   entrytype: article
+** The Species Severe Acute Respiratory Syndrome-Related Coronavirus: Classifying 2019-NCoV and Naming It SARS-CoV-2
+   key:       SarsCov2
+   author:    Coronaviridae Study Group of the International Committee on Taxonomy of Viruses
+   year:      2020
+   journal:   Nature microbiology
+   publisher: Nature Publishing Group
+   volume:    5
+   number:    4
+   pages:     536
+   status:    published
+   entrytype: article
+* books
+** The Serpent and the Rainbow
+   key:       davis2010serpent
+   author:    Wade Davis
+   year:      2010
+   publisher: Simon and Schuster
+   status:    published
+   entrytype: book
+** Computational Engineering and Modeling
+   key:       hiorth2019
+   author:    Aksel Hiorth
+   year:      2019
+   publisher: https://github.com/ahiorth/CompEngineering
+   status:    published
+   entrytype: book
+** The Zombie Survival Guide: Complete Protection From the Living Dead
+   key:       brooks2003zombie
+   author:    Max Brooks
+   year:      2003
+   publisher: Broadway {B}ooks
+   status:    published
+   entrytype: book
+** The Walking Dead Vol. 1: Days Gone Bye
+   key:       kirkman2004walking
+   author:    Robert Kirkman
+   year:      2004
+   publisher: {I}mage {C}omics
+   volume:    1
+   status:    published
+   entrytype: book
+** Modeling Infectious Diseases in Humans and Animals
+   key:       keeling2011modeling
+   author:    Matt J. Keeling, Pejman Rohani
+   year:      2011
+   publisher: {P}rinceton {U}niversity {P}ress
+   status:    published
+   entrytype: book
+** An Introduction to Infectious Disease Modelling
+   key:       vynnycky2010introduction
+   author:    Emilia Vynnycky, Richard White
+   year:      2010
+   publisher: OUP {O}xford
+   status:    published
+   entrytype: book
+* misc
+** {S}tore {N}orske {L}eksikon
+   key:          snl
+   status:       published
+   entrytype:    misc
+   howpublished: \url{https://snl.no}
+   note:         Accessed: 2020-10-23
+** {C}oronavirus Modelling at the {NIPH}
+   key:          NIPH
+   status:       published
+   entrytype:    misc
+   howpublished: \url{https://www.fhi.no/en/id/infectious-diseases/coronavirus/coronavirus-modelling-at-the-niph-fhi/}
+   note:         Accessed: 2019-10-26
+** {doh}
+   key:          WinNT
+   author:       {N}ational {B}ureau of {S}tatistics of {C}hina
+   year:         November 1, 2020
+   status:       published
+   entrytype:    misc
+   howpublished: \url{http://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817188.html}
+   note:         Accessed: 2021-08-17
+** {Communiqué of the Seventh National Population Census[1] (No. 3) {-} Population by Region}
+   key:          ChinaPopulation
+   author:       {N}ational {B}ureau of {S}tatistics of {C}hina
+   year:         November 1, 2020
+   status:       published
+   entrytype:    misc
+   howpublished: \url{http://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817188.html}
+   note:         Accessed: 2021-08-17
+** {COVID-19 Pandemic on Diamond Princess}
+   key:          WikiDiamondPrincess
+   author:       Wikipedia
+   year:         2021
+   status:       published
+   entrytype:    misc
+   howpublished: \url{https://en.wikipedia.org/wiki/COVID-19_pandemic_on_Diamond_Princess}
+   note:         Accessed: 2021-08-17
+** {COVID{-}19 GOVERNMENT RESPONSE TRACKER}
+   key:          CovidGovResponseTracker
+   author:       {U}niversity of {O}xford {B}lavatnik {S}chool of {G}overnment
+   year:         2021
+   status:       published
+   entrytype:    misc
+   howpublished: \url{https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker}
+   note:         Accessed: 2021-08-17
+** {Population in Norway, 2nd Quarter 2021}
+   key:          NorwayPopSSB
+   author:       Statistics Norway
+   year:         Updated: 19 August 2021
+   status:       published
+   entrytype:    misc
+   howpublished: \url{https://www.ssb.no/en/befolkning/folketall/statistikk/befolkning}
+   note:         Accessed: 2021-08-19

@@ -1,0 +1,6 @@
+======= Preface =======
+This thesis is awesome! Add references in a BiBTeX file, e.g. `papers.bib` and do
+!bc pypro
+publish import papers.bib
+!ec
+This how you cite cite{langtangen1999computational}
