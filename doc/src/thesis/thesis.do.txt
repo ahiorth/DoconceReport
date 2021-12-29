@@ -23,7 +23,7 @@ label{ch:one}
 label{ch:two}
 # # #include "../chapters/ch2/ch2.do.txt"
 !split
-========= Chapter Thre =========
+========= Chapter Three =========
 label{ch:three}
 # # #include "../chapters/ch3/ch3.do.txt"
 !split

@@ -9,6 +9,6 @@ function system {
 }
 
 
-system bash -x ../make.sh ch2
-system bash -x ../make_html.sh ch2
+system bash -x ../make.sh main_ch2
+system bash -x ../make_html.sh main_ch2
 system bash -x ../clean.sh
