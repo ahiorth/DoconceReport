@@ -3,9 +3,9 @@ TITLE: Covid-19, data and a simple compartment model
 # #if FORMAT == "html"
 AUTHOR: Aksel Hiorth and Oddbj&oslash;rn N&oslash;dland
 # #elif FORMAT in ("latex","pdflatex")
-AUTHOR: Aksel Hiorth and $\text{Oddbj\oe rn N\oe dland}$
+AUTHOR: Aksel Hiorth and $\text{Oddbj\o rn N\o dland}$
 # #else
-AUTHOR: Aksel Hiorth and $\text{Oddbj\oe rn N\oe dland}$
+AUTHOR: Aksel Hiorth and Oddbjorn Nodland
 # #endif
 #
 DATE: today

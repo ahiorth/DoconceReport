@@ -3,9 +3,9 @@ TITLE: Covid-19, data and a simple compartment model
 # #if FORMAT == "html"
 AUTHOR: Aksel Hiorth and Oddbj&oslash;rn N&oslash;dland
 # #elif FORMAT in ("latex","pdflatex")
-AUTHOR: Aksel Hiorth and $\text{Oddbj\oe rn N\oe dland}$
+AUTHOR: Aksel Hiorth and $\text{Oddbj\o rn N\o dland}$
 # #else
-AUTHOR: Aksel Hiorth and $\text{Oddbj\oe rn N\oe dland}$
+AUTHOR: Aksel Hiorth and Oddbjorn Nodland
 # #endif
 DATE: today
 
@@ -591,7 +591,7 @@ feedback about the project itself?
 
 __Aksel:__ I started too late on the projects, next time I will start immediately, visit the lab every Wednesday and work continuously. We worked quite well as a team. I enjoyed to see how we could use a model to analyze data, and extract knowledge. However, I think that the model is too simple to capture the complexity of how an infectious disease spreads. It would be very interesting to see how the model could be improved to capture more effects, like vaccination, social distancing, etc.
 
-__Oddbjoern:__ I worked on the project in-between several other tasks, and I did most of the writing work close to the deadline. Though I think the project went reasonably well, it is probably better if I start earlier next time. Being a former mathematics student, I really enjoyed learning about how the Corona virus can be modelled with differential equations. The project allowed also gave me appreciation for how difficult it can be to analyze real-world data; it would be exciting to continue in the future by gradually extending the complexity of the model to allow for more realism!
+__Oddbjorn:__ I worked on the project in-between several other tasks, and I did most of the writing work close to the deadline. Though I think the project went reasonably well, it is probably better if I start earlier next time. Being a former mathematics student, I really enjoyed learning about how the Corona virus can be modelled with differential equations. The project allowed also gave me appreciation for how difficult it can be to analyze real-world data; it would be exciting to continue in the future by gradually extending the complexity of the model to allow for more realism!
 
 
 ======= Bibliography =======
