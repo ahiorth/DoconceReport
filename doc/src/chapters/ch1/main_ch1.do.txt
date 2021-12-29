@@ -6,8 +6,6 @@ DATE: today
 TOC: on
 
 
-# Common Mako variables and functions
-# #include "../mako_code.txt"
 
 # #include "ch1.do.txt"
 
